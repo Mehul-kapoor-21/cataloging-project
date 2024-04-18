@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-main-div{
+  background-color: #ffffff;
+}
+
+.btn-home{
+background-color: #323232;
+color: white;
+border-radius: 20px;
+}
+.btn-home:hover{
+background-color: #323232;
+color: white;
+}
+
+.btn-home2{
+background-color: white;
+color: #323232;
+border: 2px solid #323232;
+border-radius: 20px;
+}
+.btn-home2:hover{
+background-color: white;
+color: #323232;
+border: 2px solid #323232;
+}
+.nav-text{
+color: #383838 !important;
+text-decoration: none;
+font-weight: 600;
+margin-left: 40px;
+}
+
+.logo{
+font-weight: 700;
+color: #282c34;
+font-family: "Exo 2", sans-serif;
+}
+
